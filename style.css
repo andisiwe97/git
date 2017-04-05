@@ -1,0 +1,21 @@
+body {
+	background: url("/home/quirky30/Desktop/aromaterapia_levendula.jpg"); 
+	background-size: cover;
+
+}
+
+h1{
+ color: powderblue;
+ text-align: center;
+
+}
+
+
+p{
+color: seagreen;
+font-size: 18px;
+*{
+	font-family: Georgia; 
+}
+
+
