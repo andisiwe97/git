@@ -1,7 +1,6 @@
 body {
-	background: url("/home/quirky30/Desktop/aromaterapia_levendula.jpg"); 
+	background-image: url("https://www.google.com/imgres?imgurl=http%3A%2F%2Fgostica.com%2Fwp-content%2Fuploads%2F2016%2F10%2Fthe-secrets-of-aromatherapy.jpg&imgrefurl=http%3A%2F%2Fgostica.com%2Fspiritual-lifestile%2Fsecrets-aromatherapy%2F&docid=1SsbVQ2QN7j1VM&tbnid=gL3B62Hhv8yeeM%3A&vet=10ahUKEwiJn6KX_I_TAhUMBMAKHax8DVEQMwgyKAIwAg..i&w=2000&h=1333&gl=za&client=ubuntu&bih=673&biw=1301&q=aromatherapy&ved=0ahUKEwiJn6KX_I_TAhUMBMAKHax8DVEQMwgyKAIwAg&iact=mrc&uact=8"); 
 	background-size: cover;
-
 }
 
 h1{
@@ -14,8 +13,20 @@ h1{
 p{
 color: seagreen;
 font-size: 18px;
-*{
-	font-family: Georgia; 
+font-family: Georgia; 
+}
+
+nav ul li {
+	float: left;
+	font-family: sans-serif;
+	font-size: 15px;
+	background-color: #F2DDDE;
+	border-radius: 5px;
+	border-color: #f35952;
+	margin-right: 10px;
+	padding-left: 10px;
+	text-align: center;
+
 }
 
 
